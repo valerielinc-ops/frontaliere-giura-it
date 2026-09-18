@@ -830,7 +830,7 @@
 {"path":"cerca-lavoro-giura/ricerca-collaboratore-trice-tecnico-8820-wadenswil/","hash":"34fdad2b6c13e6b4ce8d0a8cc5958a36a73be909e383d098040f302f7c065924"}
 {"path":"cerca-lavoro-giura/ricerca-collaboratore-trice-tecnico-agroscope/","hash":"78cdea37ce85bae607c4149224568db0227dd8a477880f88c99c930e93106a65"}
 {"path":"cerca-lavoro-giura/ricerca-collaboratore-trice-tecnico/","hash":"56438d702f1447f827f0dfc3b60713ad006277013fb21f8ec2e7a7902dd27f66"}
-{"path":"cerca-lavoro-giura/ricerca-collaboratore-trice-warenausgang-80-domat-ems/","hash":"9821da6c974994bdba938a89b353bf26558c41030643608157937a6f9bba77c3"}
+{"path":"cerca-lavoro-giura/ricerca-collaboratore-trice-warenausgang-80-domat-ems/","hash":"508dd59b33441950a30cad035bcb472ff191d51b63c1037434afaf610d9783b4"}
 {"path":"cerca-lavoro-giura/ricerca-completata-biel/","hash":"4112e69633ac7041bd6811a329968cb8cb3a976d00afc4d76f7282fafd4f1b9e"}
 {"path":"cerca-lavoro-giura/ricerca-concordare-biel-bienne/","hash":"415f18f8074b71d687ba0b4cdd6d655e004984431661f7c40e3147a587279d7f"}
 {"path":"cerca-lavoro-giura/ricerca-construction-manager-construction-manager-saignelegier/","hash":"32c54f4e3a917d9dc5e4a90b3b82d7647ef01a2d0e09c3c8016000ac3caf2e63"}
@@ -1071,7 +1071,7 @@
 {"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-segretaria-medica-80/","hash":"be14f0e9b49e5b11bee6bbc41a44f9930183c1405591e772697d2c78d6d1204f"}
 {"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-segretaria-medica-in-endoscopia-all-85/","hash":"b8f35f65661228e8774b8e453540788f10bb8b855c01cdef80fb586172a2b3da"}
 {"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-segretaria-o-di-clinica-in-medicina/","hash":"7756f19adf6a23d2b33e810e2a069538dba53607cd6c6dfb1b21b1a5599d1362"}
-{"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-segretaria-o-gig-europe-sa/","hash":"1f734a6f2f9557c8e0e852a8f4de0b87cd2b610adf961e10bdcea7b0b6523212"}
+{"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-segretaria-o-gig-europe-sa/","hash":"e2ccf872191c797ebf75544efbb484cd0daf1415861df5a5c3a65c37c0ff5fa8"}
 {"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-segretario-a-medico-80/","hash":"59cba6c305a341bb9ef7db9c97c20d4c60f2b4c6ad99c5949634347c726ed092"}
 {"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-specialista-del-sistema-ict-in/","hash":"3508163968d485b22aa7949decef1ff1d719349724140d0950e2068e404f3e76"}
 {"path":"cerca-lavoro-giura/ricerca-offerte-lavoro-specialista-in-attivazione-uomo-donna/","hash":"baa4c314a79e4cd00da1d8f37f976e37cddea68dd775990cd7dded250e840158"}
@@ -1177,7 +1177,7 @@
 {"path":"cerca-lavoro-giura/ricerca-segretaria-o-di-clinica-in-medicina-liestal/","hash":"ff2e6c511be15f54d62ba403a58ba06b454641779a9e324a29acc52ca2db1e58"}
 {"path":"cerca-lavoro-giura/ricerca-segretaria-o-di-clinica-in-medicina/","hash":"219216afbc761b2e07412186795b7fb596dcc88bd7a9bbbbe90ed6a0cbfb6db1"}
 {"path":"cerca-lavoro-giura/ricerca-segretaria-o-di-studio-medico-di-pneumologia-80/","hash":"50c40ef17f34758f61e123547c50119da1f5087cecea557aa1a6ce10f5781564"}
-{"path":"cerca-lavoro-giura/ricerca-segretaria-o-gig-europe-sa/","hash":"dbd0981fe0999c3acef5b5e1a69e415d12d2856aa774e7c7cb8aa161f7e98281"}
+{"path":"cerca-lavoro-giura/ricerca-segretaria-o-gig-europe-sa/","hash":"d38c4d72f0f2c6774f2db24c0b9dce6c791395cc7e2bab0f49313d5d3a2a1d64"}
 {"path":"cerca-lavoro-giura/ricerca-segretariati-sion/","hash":"0a69b09236252a3dc8e343137e3a68f8024fa026386fb6ba299a8cd1fac33cbe"}
 {"path":"cerca-lavoro-giura/ricerca-segretario-a-medico-80/","hash":"388af329133a166e637fd60974182e648063600ff71df2a988e2c1b7756cad5e"}
 {"path":"cerca-lavoro-giura/ricerca-segretario-della-clinica-80/","hash":"daf82974d8e95b983321d5211f04ffe83e29291aebf7f2ab8dcee25ebc1beec3"}
@@ -1264,7 +1264,7 @@
 {"path":"cerca-lavoro-giura/ricerca-stipendio-segretaria-medica-80-svizzera/","hash":"147b5a1a755de0eb9ba8820db51e856f7ea8f9cb38cea671bfd0ad1cf12ce88e"}
 {"path":"cerca-lavoro-giura/ricerca-stipendio-segretaria-medica-in-endoscopia-all-85-svizzera/","hash":"2cb07508b4e458bff2debbf3c1a68ea150f26bde70eaf0262e87da253a34ceb5"}
 {"path":"cerca-lavoro-giura/ricerca-stipendio-segretaria-o-di-clinica-in-medicina-svizzera/","hash":"b791ccd72a62b9f9a6da4d50d717bdcaead5ea997f3828e4f03c750e768a43ac"}
-{"path":"cerca-lavoro-giura/ricerca-stipendio-segretaria-o-gig-europe-sa-svizzera/","hash":"e9d87d448a572d0a95aa7cfefb5b0ce419481a164a5bb6112e9971f4ce69954d"}
+{"path":"cerca-lavoro-giura/ricerca-stipendio-segretaria-o-gig-europe-sa-svizzera/","hash":"291038c11af0af92bbc2a07fb10dc36d8759caef99a4ae3fb8a13269c5d2bed9"}
 {"path":"cerca-lavoro-giura/ricerca-stipendio-segretario-a-medico-80-svizzera/","hash":"b39b131268d30de870b55d65064a6a7047badd893e49b7643cbc764420641667"}
 {"path":"cerca-lavoro-giura/ricerca-stipendio-specialista-del-sistema-ict-in-svizzera/","hash":"45aa1c2d31b4e51d6365e15db1f2b60f4b4bb7d9e38661647355f997fcfeec70"}
 {"path":"cerca-lavoro-giura/ricerca-stipendio-specialista-in-attivazione-uomo-donna-svizzera/","hash":"d32265c8a59935257dfc7dc0fd23bb1fa5c19420d263801a735c61170b135f68"}
@@ -1285,7 +1285,7 @@
 {"path":"cerca-lavoro-giura/ricerca-systemgastronomo-uomo-donna/","hash":"1dd7e1e874ebdf0c8f905e6d225697153f49cccd336cd50fcbf11ea681dfcc7a"}
 {"path":"cerca-lavoro-giura/ricerca-team-leader-hotellerie-e-servizi-domestici-m-f-d-100/","hash":"fd987fdfc57b3280003f606863b6384f454fa5ae277e52b286ed0cab4001fa1f"}
 {"path":"cerca-lavoro-giura/ricerca-technique-sion/","hash":"34b020e1082e5dbf8c675adfce78a668b871efe2207f01bcb61b79f422e58d59"}
-{"path":"cerca-lavoro-giura/ricerca-tecnica-les-breuleux/","hash":"df3f1e4c31757bc895e3c037324099346f8469e6c3857295c9c82194e52d6fba"}
+{"path":"cerca-lavoro-giura/ricerca-tecnica-les-breuleux/","hash":"b996060bbef714f1a4b6bd66f73bbd6dda54b3a03ce905ecae8da90e8817a80a"}
 {"path":"cerca-lavoro-giura/ricerca-tecniche-les-breuleux/","hash":"f142e07be235fad6bdfe592665d75d95a41e4641bb5125a33736a91a2581a35a"}
 {"path":"cerca-lavoro-giura/ricerca-tecnici-porrentruy/","hash":"3e5dee2e12e770d9e80eae9fa73ae3b15cb91eef62510520d636bdf8deae88d1"}
 {"path":"cerca-lavoro-giura/ricerca-tecnico-a-di-radiologia-medica/","hash":"856f3a09f6ac3a01b11ab4cca8ba6ebd02e60cd6262162d081bb138f8dac4d4c"}
@@ -1329,4 +1329,4 @@
 {"path":"cerca-lavoro-giura/ricerca-wissenschaftliche-collaboratore-trice-melde-bern/","hash":"813813bf7e69ffb97dc29bc6d4b5697baa49996fcc067b8959f0d1699f57c5e3"}
 {"path":"cerca-lavoro-giura/ricerca-work-bern/","hash":"53c61c2f7889cee215f3e2cfdbd4352ce529ab1a1c1ac20a98506cef8b548515"}
 {"path":"cerca-lavoro-giura/ricerca-work-biel/","hash":"9238203c4f7caf590eec4481d751c7ea719fb1980d4f589e6abdb527aeb4bfcf"}
-{"type":"footer","counts":{"total":1326,"byKind":{"active-job":87,"expired-soft-landing":435,"legacy-slug-bridge":0,"previous-slugs-full-content":200,"cross-locale-reconciliation":0,"related-search-cluster":604,"related-search-sitemap":0}},"jobsSeoEmitterFingerprint":{"active-job":"a12d8e2072648cd01577b1d5f86a6dad78ce39a212df1a60fcfd654f55a5892a","cross-locale-reconciliation":"b2cbd88285ea904dcec16b8cfac0742051f228702be5c3cfac466e15c0d6ee62","expired-soft-landing":"48b56225db50b247b3b47924d8029690f7ce6883587f51ddbf3d9743cb5bc1c3","legacy-slug-bridge":"ee6b94c2ad9c4f097e196770b6090c4b6a7cc384d1c224b0f58b112d5c07f136","previous-slugs-full-content":"c956d656725ee9c3f41596f40438c7657cd2c642d4fa139bfb7bac2551a71f78"}}
+{"type":"footer","counts":{"total":1326,"byKind":{"active-job":87,"expired-soft-landing":435,"legacy-slug-bridge":0,"previous-slugs-full-content":200,"cross-locale-reconciliation":0,"related-search-cluster":604,"related-search-sitemap":0}},"jobsSeoEmitterFingerprint":{"active-job":"75fbc1b6724ef4d88b559c546233cb6fe96cbb4d3ad639bf450b600e89ee53b5","cross-locale-reconciliation":"f128856c36771b016f4aa569e8497d3f05cfba71ff5c74ed3cf071e7c5fe3585","expired-soft-landing":"9c91b3e901083d19d087021b3dfb28fd063872f9b4af78700ccbb5f657f51000","legacy-slug-bridge":"38f3b2c5b77ba75b2a5e820c2c85b817c01353aeac067e8d84113c368359e648","previous-slugs-full-content":"2faa502dd94d863452d69c6ada0bc366c279e1f8674ad4bb21d86d65b4b3b350"}}
